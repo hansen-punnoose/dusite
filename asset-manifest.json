@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dusite/static/css/main.f5a838f1.css",
-    "main.js": "/dusite/static/js/main.e9d59439.js",
+    "main.css": "/dusite/static/css/main.1ad8308b.css",
+    "main.js": "/dusite/static/js/main.6f4817d1.js",
     "static/media/quarterlyBanner.jpg": "/dusite/static/media/quarterlyBanner.7a646191c88859ecb93e.jpg",
     "static/media/duhouse.jpg": "/dusite/static/media/duhouse.a7d26a59634fb3522692.jpg",
     "static/media/dubigclean.svg": "/dusite/static/media/dubigclean.d3dba4b38d07097deede2e10c1ebde4c.svg",
     "index.html": "/dusite/index.html",
-    "main.f5a838f1.css.map": "/dusite/static/css/main.f5a838f1.css.map",
-    "main.e9d59439.js.map": "/dusite/static/js/main.e9d59439.js.map"
+    "main.1ad8308b.css.map": "/dusite/static/css/main.1ad8308b.css.map",
+    "main.6f4817d1.js.map": "/dusite/static/js/main.6f4817d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5a838f1.css",
-    "static/js/main.e9d59439.js"
+    "static/css/main.1ad8308b.css",
+    "static/js/main.6f4817d1.js"
   ]
 }
