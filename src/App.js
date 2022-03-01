@@ -13,8 +13,9 @@ const App = () => {
             <Header />
             <Brand />
         </div>
-        <What />
         <Features />
+        <What />
+        
         <Possibility />
         <CTA />
         <Blog />
