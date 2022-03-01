@@ -7,10 +7,10 @@ import logo from '../../assets/dubigclean.svg';
 const Menu = () => (
   <>
     <p><a href = "#home"> Home </a></p>
-    <p><a href = "#what"> What </a></p>
-    <p><a href = "#possibility"> Open </a></p>
-    <p><a href = "#features"> Case </a></p>
-    <p><a href = "#blog"> Library </a></p>
+    <p><a href = "#features"> About </a></p>
+    <p><a href = "#what"> Recruitment </a></p>
+    <p><a href = "#possibility"> Philanthropy </a></p>
+    <p><a href = "#blog"> Alumni </a></p>
   
   
   </>

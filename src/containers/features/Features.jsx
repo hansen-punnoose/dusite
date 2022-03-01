@@ -1,6 +1,7 @@
 import React from 'react'
 import './features.css';
 import Feature from '../../components/feature/Feature';
+import crest from '../../assets/Delta_Upsilon_Coat_of_Arms.png';
 
 
 
@@ -25,9 +26,19 @@ const featuresData = [
 
 const Features = () => (
   <div className="du__features section__padding" id="features">
-    <div className="du__features-heading">
+    <div className="du__features-heading">ß
       <h1>Behind Building Better Men</h1>
       <p>Our Four Founding Principles</p>
+
+      <div className='du__feat-image'>
+      
+         <img src={crest} />
+        </div>
+
+      <div className='du__secondary'>
+
+      <p>No Secrets. Today, being the only non-secret fraternity means that our principles and ideals are open to public scrutiny and inspection, allowing others to judge whether we are living up to our own expectations. We pride ourselves on being called "The Gentlemen's Fraternity". In short DU is about balance. We strive to get the most out of the college experience through academics, professional connections, philanthropy while leaving enough time to relax. You will learn things about yourself you have never known, you will try things you have never tried, and have some of the best years of your life doing it.</p>
+      </div>   
     </div>
     <div className="du__features-container">
       {featuresData.map((item, index) => (

@@ -33,6 +33,15 @@
 
     margin-top: 2rem;
 }
+.du__secondary p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 500;
+    font-family: var(--font-family);
+
+    margin-top: 0rem;
+}
 
 .du__features-container {
     flex: 1.5;
@@ -40,6 +49,20 @@
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
+}
+.du__feat-image img {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 2rem;
+
+    margin-right: 1rem;
+}
+
+.du__feat-image img {
+    width: 90%;
+    height: 75%;
 }
 
 @media screen and (max-width: 990px) {
