@@ -1,6 +1,6 @@
 import React from 'react';
 import './brand.css';
-import ban from '../../assets/quarterlyBanner.jpg';
+import ban from '../../assets/quarterlyBannerFinal.jpg';
 
 
 const Brand = () => {
