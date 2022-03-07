@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dusite/static/css/main.beeb51d5.css",
-    "main.js": "/dusite/static/js/main.3f9416aa.js",
-    "static/media/quarterlyBanner.jpg": "/dusite/static/media/quarterlyBanner.7a646191c88859ecb93e.jpg",
+    "main.js": "/dusite/static/js/main.b132cccd.js",
+    "static/media/quarterlyBannerFinal.jpg": "/dusite/static/media/quarterlyBannerFinal.73813e918a971740f4a6.jpg",
     "static/media/duhouse.jpg": "/dusite/static/media/duhouse.a7d26a59634fb3522692.jpg",
     "static/media/Delta_Upsilon_Coat_of_Arms.png": "/dusite/static/media/Delta_Upsilon_Coat_of_Arms.b4c88794841c3fa4d47b.png",
     "static/media/dubigclean.svg": "/dusite/static/media/dubigclean.6f4d4cadf77b718a5d662e4ab1d51963.svg",
     "index.html": "/dusite/index.html",
     "main.beeb51d5.css.map": "/dusite/static/css/main.beeb51d5.css.map",
-    "main.3f9416aa.js.map": "/dusite/static/js/main.3f9416aa.js.map"
+    "main.b132cccd.js.map": "/dusite/static/js/main.b132cccd.js.map"
   },
   "entrypoints": [
     "static/css/main.beeb51d5.css",
-    "static/js/main.3f9416aa.js"
+    "static/js/main.b132cccd.js"
   ]
 }
