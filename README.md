@@ -5,10 +5,10 @@ Link to project [dusite](https://hansen-punnoose.github.io/dusite/).
 
 ## Table of Contents 
 
--[About The App](#about-the-app)
--[Status](#status)
--[Technologies](#technologies)
--[Setup](#setup)
+- [About The App](#about-the-app)
+- [Status](#status)
+- [Technologies](#technologies)
+- [Setup](#setup)
 
 ## About the App
 The Delta Upsilon Illinois Website serves to keep alumni, active brothers, and parents up to date with latest news and updates from 312 East Armory. The website is still in progress and more features are to be added in the near future. 
